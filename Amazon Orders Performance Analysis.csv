@@ -1,0 +1,101 @@
+Order ID,Order Date,Delivery Date,Status,Category,State,Price
+ORD0001,28-09-2024,,Cancelled,Sports,Maharashtra,4399.97
+ORD0002,08-12-2024,,Cancelled,Sports,Maharashtra,3046.75
+ORD0003,28-08-2024,,Out for Delivery,Books,Maharashtra,1878.36
+ORD0004,10-10-2024,,Returned,Clothing,West Bengal,4831.22
+ORD0005,17-12-2024,24-12-2024,Delivered,Books,Tamil Nadu,4779.31
+ORD0006,03-02-2024,,Returned,Home & Kitchen,West Bengal,297.39
+ORD0007,27-02-2024,06-03-2024,Delivered,Electronics,Delhi,3432.17
+ORD0008,12-08-2024,,Cancelled,Books,Maharashtra,2360.88
+ORD0009,25-05-2024,,Cancelled,Books,Delhi,241.22
+ORD0010,11-11-2024,21-11-2024,Delivered,Clothing,Karnataka,4658.87
+ORD0011,04-06-2024,07-06-2024,Delivered,Sports,Maharashtra,4584.13
+ORD0012,25-03-2024,,Cancelled,Home & Kitchen,Karnataka,805.14
+ORD0013,04-07-2024,,Out for Delivery,Electronics,Delhi,2625.91
+ORD0014,28-09-2024,03-10-2024,Delivered,Sports,Delhi,2294.32
+ORD0015,13-03-2024,,Returned,Books,Maharashtra,4668.05
+ORD0016,28-12-2024,31-12-2024,Delivered,Electronics,Karnataka,2642.15
+ORD0017,02-06-2024,,Returned,Home & Kitchen,Maharashtra,3738.95
+ORD0018,18-10-2024,28-10-2024,Delivered,Clothing,West Bengal,2809.98
+ORD0019,26-01-2024,27-01-2024,Delivered,Electronics,West Bengal,4039.06
+ORD0020,15-08-2024,,Shipped,Home & Kitchen,Maharashtra,2014.23
+ORD0021,09-10-2024,17-10-2024,Delivered,Clothing,Delhi,1093.89
+ORD0022,19-02-2024,,Shipped,Sports,West Bengal,482.06
+ORD0023,16-09-2024,24-09-2024,Delivered,Books,Karnataka,688.46
+ORD0024,01-06-2024,07-06-2024,Delivered,Books,Delhi,4614.88
+ORD0025,28-09-2024,,Cancelled,Sports,Delhi,942.67
+ORD0026,03-07-2024,10-07-2024,Delivered,Sports,Tamil Nadu,1464.37
+ORD0027,12-09-2024,15-09-2024,Delivered,Sports,Karnataka,3047.57
+ORD0028,23-11-2024,03-12-2024,Delivered,Books,Karnataka,3755.6
+ORD0029,16-06-2024,21-06-2024,Delivered,Electronics,Maharashtra,3790.4
+ORD0030,26-11-2024,02-12-2024,Delivered,Sports,Tamil Nadu,810.08
+ORD0031,13-07-2024,,Shipped,Sports,West Bengal,769.34
+ORD0032,23-03-2024,27-03-2024,Delivered,Books,Tamil Nadu,1113.49
+ORD0033,02-06-2024,10-06-2024,Delivered,Books,Delhi,1672.87
+ORD0034,24-09-2024,,Cancelled,Sports,West Bengal,2566.19
+ORD0035,05-07-2024,11-07-2024,Delivered,Home & Kitchen,West Bengal,4033.83
+ORD0036,20-05-2024,,Cancelled,Clothing,Tamil Nadu,2638.72
+ORD0037,27-04-2024,02-05-2024,Delivered,Electronics,Karnataka,2455.53
+ORD0038,06-10-2024,16-10-2024,Delivered,Books,Delhi,701.41
+ORD0039,10-01-2024,,Cancelled,Electronics,West Bengal,2890.86
+ORD0040,22-10-2024,,Shipped,Clothing,Maharashtra,3297.41
+ORD0041,11-01-2024,13-01-2024,Delivered,Clothing,Maharashtra,311.27
+ORD0042,28-05-2024,01-06-2024,Delivered,Books,Tamil Nadu,1362.28
+ORD0043,23-08-2024,31-08-2024,Delivered,Home & Kitchen,Tamil Nadu,4399.31
+ORD0044,02-03-2024,,Out for Delivery,Sports,Delhi,1627.77
+ORD0045,09-08-2024,,Cancelled,Sports,West Bengal,3426.88
+ORD0046,17-08-2024,25-08-2024,Delivered,Clothing,West Bengal,774.55
+ORD0047,01-07-2024,07-07-2024,Delivered,Books,Delhi,2936.78
+ORD0048,05-06-2024,14-06-2024,Delivered,Books,West Bengal,3725.52
+ORD0049,16-05-2024,,Shipped,Clothing,West Bengal,3251.45
+ORD0050,20-05-2024,27-05-2024,Delivered,Books,West Bengal,479.13
+ORD0051,16-05-2024,,Cancelled,Home & Kitchen,Tamil Nadu,2916.46
+ORD0052,23-06-2024,,Returned,Electronics,Karnataka,3355.82
+ORD0053,11-08-2024,17-08-2024,Delivered,Sports,Tamil Nadu,916.17
+ORD0054,13-06-2024,,Shipped,Sports,Delhi,2172.34
+ORD0055,11-08-2024,21-08-2024,Delivered,Home & Kitchen,Tamil Nadu,4197.8
+ORD0056,14-08-2024,16-08-2024,Delivered,Clothing,Maharashtra,2781.67
+ORD0057,09-07-2024,16-07-2024,Delivered,Clothing,Delhi,3749.53
+ORD0058,07-10-2024,10-10-2024,Delivered,Electronics,West Bengal,3954.74
+ORD0059,09-06-2024,10-06-2024,Delivered,Clothing,Maharashtra,3539.27
+ORD0060,19-09-2024,,Out for Delivery,Electronics,Tamil Nadu,4139.06
+ORD0061,16-06-2024,23-06-2024,Delivered,Clothing,Delhi,2869.11
+ORD0062,22-12-2024,,Shipped,Clothing,Tamil Nadu,4794.29
+ORD0063,20-12-2024,28-12-2024,Delivered,Clothing,West Bengal,2774.95
+ORD0064,25-09-2024,29-09-2024,Delivered,Sports,Tamil Nadu,4944.71
+ORD0065,21-01-2024,28-01-2024,Delivered,Clothing,Maharashtra,2352.67
+ORD0066,11-02-2024,,Shipped,Home & Kitchen,West Bengal,1620.98
+ORD0067,01-02-2024,04-02-2024,Delivered,Home & Kitchen,Tamil Nadu,3729.12
+ORD0068,06-09-2024,,Shipped,Clothing,Delhi,3875.12
+ORD0069,09-04-2024,,Returned,Books,West Bengal,4063.54
+ORD0070,13-04-2024,21-04-2024,Delivered,Clothing,Karnataka,771.46
+ORD0071,06-11-2024,14-11-2024,Delivered,Clothing,Maharashtra,2354.74
+ORD0072,22-10-2024,,Shipped,Electronics,Maharashtra,3517.25
+ORD0073,11-05-2024,,Shipped,Sports,West Bengal,716.01
+ORD0074,11-10-2024,16-10-2024,Delivered,Electronics,West Bengal,3678.08
+ORD0075,27-12-2024,,Cancelled,Home & Kitchen,West Bengal,2615.03
+ORD0076,13-08-2024,21-08-2024,Delivered,Sports,Delhi,3837.87
+ORD0077,07-07-2024,14-07-2024,Delivered,Books,Karnataka,1430.42
+ORD0078,10-02-2024,17-02-2024,Delivered,Electronics,Karnataka,3039.14
+ORD0079,05-03-2024,07-03-2024,Delivered,Books,Maharashtra,988.88
+ORD0080,22-08-2024,01-09-2024,Delivered,Home & Kitchen,Delhi,2874.6
+ORD0081,13-03-2024,19-03-2024,Delivered,Electronics,Delhi,2699.09
+ORD0082,27-01-2024,31-01-2024,Delivered,Books,Maharashtra,1464.34
+ORD0083,25-12-2024,28-12-2024,Delivered,Home & Kitchen,West Bengal,2047.51
+ORD0084,08-03-2024,,Returned,Electronics,Maharashtra,4084.77
+ORD0085,02-12-2024,08-12-2024,Delivered,Electronics,West Bengal,4223.93
+ORD0086,26-09-2024,30-09-2024,Delivered,Electronics,Tamil Nadu,989.89
+ORD0087,27-11-2024,,Shipped,Books,West Bengal,1220.82
+ORD0088,10-12-2024,13-12-2024,Delivered,Books,Tamil Nadu,3710.11
+ORD0089,17-06-2024,,Cancelled,Electronics,Karnataka,1401.54
+ORD0090,07-11-2024,,Cancelled,Electronics,Maharashtra,423.21
+ORD0091,27-08-2024,28-08-2024,Delivered,Home & Kitchen,Maharashtra,416.76
+ORD0092,17-06-2024,,Cancelled,Sports,Karnataka,3823.17
+ORD0093,14-05-2024,,Out for Delivery,Home & Kitchen,West Bengal,3675.05
+ORD0094,15-01-2024,25-01-2024,Delivered,Sports,Delhi,2887.24
+ORD0095,26-09-2024,27-09-2024,Delivered,Books,Tamil Nadu,316.31
+ORD0096,09-05-2024,19-05-2024,Delivered,Home & Kitchen,Karnataka,2057.44
+ORD0097,25-05-2024,,Cancelled,Clothing,West Bengal,4171.39
+ORD0098,23-09-2024,26-09-2024,Delivered,Home & Kitchen,Tamil Nadu,3234.14
+ORD0099,15-03-2024,,Cancelled,Electronics,Tamil Nadu,554.67
+ORD0100,24-06-2024,03-07-2024,Delivered,Books,Karnataka,709.38
